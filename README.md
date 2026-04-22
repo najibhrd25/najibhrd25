@@ -1,5 +1,5 @@
-# Hi there, I'm Najib! 👋
-### 🎓 Informatics Engineering Student at ITS (2024) | Fullstack Developer
+# Hi there, I'm Najib C28! 👋
+### 🎓 Informatics Engineering Student at ITS Surabaya | Fullstack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=500&lines=Software+Engineer;Fullstack+Developer;UI/UX+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
 
