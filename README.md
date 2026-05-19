@@ -16,9 +16,9 @@
 
 ### 🎓 Informatics Engineering Student at ITS Surabaya | Fullstack Developer
 
-Saya adalah mahasiswa Teknik Informatika ITS angkatan 2024 asal Trenggalek yang berfokus pada **Full-stack Development**, **Cloud Computing**, dan pengembangan produk digital yang berdampak.
+Saya adalah mahasiswa Teknik Informatika ITS angkatan 2024 asal Trenggalek yang berfokus pada **Front-End Engineer**, **Cloud Computing**, dan pengembangan produk digital yang berdampak.
 
-Saya suka membangun aplikasi modern, menyelesaikan masalah nyata, dan mengeksplorasi arsitektur backend yang scalable.
+Saya suka membangun aplikasi modern, menyelesaikan masalah nyata, dan mengeksplorasi arsitektur frontend yang scalable.
 
 ---
 
@@ -32,7 +32,7 @@ Saya suka membangun aplikasi modern, menyelesaikan masalah nyata, dan mengeksplo
 
 - 🎓 Informatics Engineering Student at **ITS Surabaya**
 - 📍 Based in **Surabaya & Trenggalek, Indonesia**
-- 💻 Focused on **Fullstack Web Development**
+- 💻 Focused on **Front-End Development**
 - ☁️ Interested in **Cloud Computing & Scalable Systems**
 - 🍎 Preparing for **Apple Developer Academy @ Surabaya 2026**
 
@@ -41,8 +41,8 @@ Saya suka membangun aplikasi modern, menyelesaikan masalah nyata, dan mengeksplo
 
 ### 🔭 Currently Building
 
-- 🏕️ **ALRent** — Outdoor Rental Platform
-- 🩺 **Odomelt** — Health Innovation Platform
+- **ALRent Creative** — Outdoor Rental Platform
+- **Ajarin Education** — Education peer to peer at ITS University Platform
 - ⚙️ Backend architecture experiments
 - ☁️ Cloud deployment workflows
 - 🎨 Modern UI/UX implementation
@@ -56,7 +56,7 @@ Saya suka membangun aplikasi modern, menyelesaikan masalah nyata, dan mengeksplo
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:najibkamu@gmail.com">
+  <a href="mailto:bahrudinmohammadnajib@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/najibhrd25" target="_blank">
@@ -101,7 +101,7 @@ Saya suka membangun aplikasi modern, menyelesaikan masalah nyata, dan mengeksplo
 <tr>
 <td width="50%" valign="top">
 
-### 🏕️ ALRent
+### ALRent
 
 Modern outdoor rental platform untuk membantu bisnis rental lokal mengelola produk, transaksi, dan booking secara lebih efisien.
 
@@ -119,7 +119,7 @@ Modern outdoor rental platform untuk membantu bisnis rental lokal mengelola prod
 </td>
 <td width="50%" valign="top">
 
-### 🩺 Odomelt
+### Odomelt
 
 Health-tech innovation platform yang berfokus pada digital healthcare, monitoring, dan visualisasi data kesehatan.
 
