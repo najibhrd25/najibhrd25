@@ -1,224 +1,90 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e293b,100:334155&text=Najib%20C28&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Cloud%20Enthusiast%20%E2%80%A2%20ITS%20Surabaya&descAlignY=58&descSize=18" alt="Najib C28 Banner"/>
+# Hi, I'm Najib C28 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineer;Fullstack+Developer;Cloud+Computing+Enthusiast;Building+Digital+Solutions;Always+Learning+New+Things" alt="Typing SVG" />
+### Fullstack Developer • Front-End Enthusiast • Cloud Computing Learner
+
+Mahasiswa Teknik Informatika ITS Surabaya yang tertarik pada pengembangan aplikasi web modern, cloud computing, dan produk digital yang berdampak.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=najibhrd25&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://najibbbahrudin.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najibhrd25)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahrudinmohammadnajib@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/najibhrd25)
 
 </div>
 
 ---
 
-# 👋 Hi there, I'm Najib C28
-
-### 🎓 Informatics Engineering Student at ITS Surabaya | Fullstack Developer
-
-Saya adalah mahasiswa Teknik Informatika ITS angkatan 2024 asal Trenggalek yang berfokus pada **Front-End Engineer**, **Cloud Computing**, dan pengembangan produk digital yang berdampak.
-
-Saya suka membangun aplikasi modern, menyelesaikan masalah nyata, dan mengeksplorasi arsitektur frontend yang scalable.
-
----
-
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧑‍💻 Profile
+## About Me
 
 - 🎓 Informatics Engineering Student at **ITS Surabaya**
 - 📍 Based in **Surabaya & Trenggalek, Indonesia**
 - 💻 Focused on **Front-End Development**
 - ☁️ Interested in **Cloud Computing & Scalable Systems**
 - 🍎 Preparing for **Apple Developer Academy @ Surabaya 2026**
-
-</td>
-<td width="50%">
-
-### 🔭 Currently Building
-
-- **ALRent Creative** — Outdoor Rental Platform
-- **Ajarin Education** — Education peer to peer at ITS University Platform
-- ⚙️ Backend architecture experiments
-- ☁️ Cloud deployment workflows
-- 🎨 Modern UI/UX implementation
-
-</td>
-</tr>
-</table>
+- 🚀 Currently building digital products and improving my engineering skills
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:bahrudinmohammadnajib@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/najibhrd25" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/najibhrd25" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://wa.me/6285157143715" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://najibbbahrudin.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
+## Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,cpp&theme=dark" alt="Languages" />
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
 ### Frontend & Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel&theme=dark" alt="Frontend and Frameworks" />
+
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb&theme=dark" alt="Backend and Database" />
 
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,figma,linux&theme=dark" alt="Tools and DevOps" />
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-</div>
+### Tools
+
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### ALRent Creative
 
-### ALRent
+Outdoor rental platform untuk membantu bisnis rental lokal mengelola produk, booking, dan transaksi secara lebih efisien.
 
-Modern outdoor rental platform untuk membantu bisnis rental lokal mengelola produk, transaksi, dan booking secara lebih efisien.
+**Tech Stack:** `Next.js` `TypeScript` `TailwindCSS` `PostgreSQL`
 
-**Key Features**
-- Online booking system
-- Product management
-- Authentication system
-- Dashboard analytics
-- Responsive interface
+### Ajarin Education
 
-**Tech Stack**
+Platform peer-to-peer education untuk membantu mahasiswa ITS saling belajar dan berbagi pengetahuan.
 
-`Next.js` `TypeScript` `TailwindCSS` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
+**Tech Stack:** `React` `Node.js` `MongoDB`
 
 ### Odomelt
 
-Health-tech innovation platform yang berfokus pada digital healthcare, monitoring, dan visualisasi data kesehatan.
+Health-tech platform concept untuk monitoring dan visualisasi data kesehatan dengan dashboard interaktif.
 
-**Key Features**
-- Health monitoring
-- Interactive dashboard
-- Data visualization
-- Modern UI/UX
-- Scalable backend concept
-
-**Tech Stack**
-
-`React` `Node.js` `MongoDB`
-
-</td>
-</tr>
-</table>
+**Tech Stack:** `React` `Node.js` `MongoDB`
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=najibhrd25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najibhrd25&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=najibhrd25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=najibhrd25&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/najibhrd25/najibhrd25/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation"/>
-
-</div>
-
----
-
-## ⏱️ WakaTime Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=najibhrd25&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-
-</div>
-
-> Pastikan username WakaTime kamu adalah `najibhrd25`. Kalau berbeda, ganti bagian `username=najibhrd25`.
-
----
-
-## 🎧 Spotify Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
-
-</div>
-
-> Untuk Spotify realtime, deploy Novatorem dulu lalu ganti URL image di atas dengan URL deployment kamu.
-
----
-
-## 🧠 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/najibhrd25?theme=dark&font=Baloo&border=0" alt="LeetCode Stats"/>
-
-</div>
-
-> Kalau username LeetCode kamu berbeda, ganti `najibhrd25` dengan username LeetCode kamu.
-
----
-
-## 🧩 Currently Learning
+## Currently Learning
 
 ```txt
 Backend Architecture   ██████████████████░░   85%
@@ -230,35 +96,30 @@ Mobile Development     █████████░░░░░░░░░░
 
 ---
 
-## 🏆 Goals 2026
+## GitHub Stats
 
-- 🍎 Join Apple Developer Academy
-- ☁️ Master Cloud Infrastructure
-- 🚀 Build scalable SaaS products
-- 🌍 Contribute to open source
-- 🧠 Grow as a product-minded engineer
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=najibhrd25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najibhrd25&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages"/>
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## Goals 2026
 
-```javascript
-while (alive) {
-  eat();
-  code();
-  sleep();
-  repeat();
-}
-```
+- Join Apple Developer Academy
+- Improve cloud infrastructure skills
+- Build scalable SaaS products
+- Contribute to open source
+- Grow as a product-minded engineer
 
 ---
 
 <div align="center">
 
-### ✨ “Good code is its own best documentation.”
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e293b,100:334155&section=footer" width="100%" alt="Footer"/>
+### “Build, learn, improve, repeat.”
 
 </div>
