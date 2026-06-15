@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Najib C28 👋
+# Hi, I'm Najib Bahrudin C28 👋
 
 ### Fullstack Developer • Front-End Enthusiast • Cloud Computing Learner
 
