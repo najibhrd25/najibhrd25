@@ -2,7 +2,7 @@
 
 # Hi, I'm Najib Bahrudin C28 👋
 
-### Fullstack Developer • Front-End Enthusiast • Cloud Computing Learner
+### Front-End Developer • Cloud Computing Learner
 
 Mahasiswa Teknik Informatika ITS Surabaya yang tertarik pada pengembangan aplikasi web modern, cloud computing, dan produk digital yang berdampak.
 
@@ -19,11 +19,10 @@ Mahasiswa Teknik Informatika ITS Surabaya yang tertarik pada pengembangan aplika
 
 ## About Me
 
-- 🎓 Informatics Engineering Student at **ITS Surabaya**
+- 🎓 Computer Science Student at **Sepuluh Nopember Institute of Technology**
 - 📍 Based in **Surabaya & Trenggalek, Indonesia**
 - 💻 Focused on **Front-End Development**
 - ☁️ Interested in **Cloud Computing & Scalable Systems**
-- 🍎 Preparing for **Apple Developer Academy @ Surabaya 2026**
 - 🚀 Currently building digital products and improving my engineering skills
 
 ---
@@ -73,12 +72,6 @@ Outdoor rental platform untuk membantu bisnis rental lokal mengelola produk, boo
 ### Ajarin Education
 
 Platform peer-to-peer education untuk membantu mahasiswa ITS saling belajar dan berbagi pengetahuan.
-
-**Tech Stack:** `React` `Node.js` `MongoDB`
-
-### Odomelt
-
-Health-tech platform concept untuk monitoring dan visualisasi data kesehatan dengan dashboard interaktif.
 
 **Tech Stack:** `React` `Node.js` `MongoDB`
 
