@@ -105,8 +105,6 @@ Mobile Development     █████████░░░░░░░░░░
 
 - Join Apple Developer Academy
 - Improve cloud infrastructure skills
-- Build scalable SaaS products
-- Contribute to open source
 - Grow as a product-minded engineer
 
 ---
