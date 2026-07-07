@@ -11,7 +11,7 @@ Mahasiswa Teknik Informatika ITS Surabaya yang tertarik pada pengembangan aplika
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://najibbbahrudin.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najibhrd25)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahrudinmohammadnajib@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/najibhrd25)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jibbziee)
 
 </div>
 
@@ -19,8 +19,8 @@ Mahasiswa Teknik Informatika ITS Surabaya yang tertarik pada pengembangan aplika
 
 ## About Me
 
-- 🎓 Computer Science Student at **Sepuluh Nopember Institute of Technology**
-- 📍 Based in **Surabaya & Trenggalek, Indonesia**
+- 🎓 Informatics Engineering Student at **Sepuluh Nopember Institute of Technology**
+- 📍 Based in **Surabaya, Indonesia**
 - 💻 Focused on **Front-End Development**
 - ☁️ Interested in **Cloud Computing & Scalable Systems**
 - 🚀 Currently building digital products and improving my engineering skills
