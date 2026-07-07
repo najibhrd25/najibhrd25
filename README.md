@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Najib Bahrudin C28 👋
+# Hi, I'm Najib Bahrudin
 
 ### Front-End Developer • Cloud Computing Learner
 
